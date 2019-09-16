@@ -1,0 +1,9 @@
+{
+  "name": "js-nymntf",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "css": "^2.2.4"
+  }
+}
